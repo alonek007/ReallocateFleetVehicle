@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-FF4B4B.svg)
 
-This project is a real-time simulation and visualization of an AI-powered fleet management system, developed for the DSIG 7 Hackathon. Our prototype, demonstrated here in the Mambakkam region on this Thursday afternoon, shows how AI agents can dynamically reallocate vehicles to optimize for efficiency, reduce wait times, and increase overall fleet productivity.
+This project is a real-time simulation and visualization of an AI-powered fleet management system, developed for the DSIG 7 Hackathon. Our prototype, demonstrated here in the Chennai region, shows how AI agents can dynamically reallocate vehicles to optimize for efficiency, reduce wait times, and increase overall fleet productivity.
 
 ### The Problem Statement
 
