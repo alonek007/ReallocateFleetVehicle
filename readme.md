@@ -55,8 +55,8 @@ To run this project locally, please follow these steps.
 
 **1. Clone the repository:**
 ```bash
-git clone <https://github.com/alonek007/ReallocateFleetVehicle>
-cd </pathdirectory/https://github.com/alonek007/ReallocateFleetVehicle>
+git clone https://github.com/alonek007/ReallocateFleetVehicle
+cd downloads/https://github.com/alonek007/ReallocateFleetVehicle
 ```
 
 **2. Create a requirements.txt file:**
