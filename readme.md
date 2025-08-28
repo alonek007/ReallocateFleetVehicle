@@ -80,3 +80,18 @@ Once the setup is complete, launch the Streamlit application from your terminal:
 ```bash
 streamlit run visualizer.py
 ```
+
+**Recommended Test Case: The Tech Park Surge**
+To see the agent's full potential, we recommend the following test case:
+
+1. Start the simulation with 15-20 vehicles and a low-to-medium demand rate.
+Let it run for a minute to allow the agent to complete a few rides and build some historical data.
+
+2. Dramatically increase the Demand Rate slider to its maximum value for a few seconds. This will simulate a sudden surge in requests, like employees leaving a tech park at the end of the day.
+
+3. Observe the agent's response:
+Watch how it dispatches a coordinated group of vehicles (orange) using the optimal assignment strategy.
+
+4. Look for a vehicle that was already close by because the agent had proactively rebalanced it (purple) to the area in anticipation of demand.
+Monitor the KPIs to see how utilization spikes to 100% while average wait time is kept under control.
+
