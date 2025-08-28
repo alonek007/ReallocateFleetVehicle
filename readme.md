@@ -66,13 +66,13 @@ streamlit-folium
 numpy
 scipy
 scikit-learn
-geopy
+geopy```
 
 **3. Install the dependencies:**
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 **How to Run**
 Once the setup is complete, launch the Streamlit application from your terminal:
 ```bash
-streamlit run visualizer.py
+streamlit run visualizer.py```
