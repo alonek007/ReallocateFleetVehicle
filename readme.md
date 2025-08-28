@@ -1,4 +1,4 @@
-# Fleet Resource Optimization with AI Agents
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f4a16b97-3394-4f2d-8490-adda28e4ecd4" /># Fleet Resource Optimization with AI Agents
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-FF4B4B.svg)
@@ -16,12 +16,8 @@ Our solution is an AI agent that operates on a dual-strategy to combat this inef
 1.  **Optimal Reactive Dispatching:** Using the Hungarian algorithm, the agent assigns idle vehicles to new requests in a globally optimal way, minimizing the entire fleet's travel time.
 2.  **Proactive Predictive Rebalancing:** Using a Kernel Density Estimation model, the agent learns from historical ride data to predict "demand hotspots" and proactively repositions idle vehicles to these areas *before* new requests even arrive.
 
----
+--
 
-### Live Demo
-
-![Live Demo GIF](demo.gif)
-*(A short GIF of the application in action would be placed here.)*
 
 ---
 
