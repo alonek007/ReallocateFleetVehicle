@@ -56,7 +56,7 @@ To run this project locally, please follow these steps.
 **1. Clone the repository:**
 ```bash
 git clone https://github.com/alonek007/ReallocateFleetVehicle
-cd downloads/https://github.com/alonek007/ReallocateFleetVehicle
+cd ReallocateFleetVehicle
 ```
 
 **2. Create a requirements.txt file:**
@@ -78,7 +78,7 @@ pip install -r requirements.txt
 **How to Run**
 Once the setup is complete, launch the Streamlit application from your terminal:
 ```bash
-streamlit run visualizer.py
+python -m streamlit run visualizer.py
 ```
 
 **Recommended Test Case: The Tech Park Surge**
