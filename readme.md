@@ -1,5 +1,5 @@
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f4a16b97-3394-4f2d-8490-adda28e4ecd4" />
-## Fleet Resource Optimization with AI Agents
+Fleet Resource Optimization with AI Agents
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-FF4B4B.svg)
