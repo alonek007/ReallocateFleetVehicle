@@ -56,4 +56,23 @@ To run this project locally, please follow these steps.
 **1. Clone the repository:**
 ```bash
 git clone <https://github.com/alonek007/ReallocateFleetVehicle>
-cd <https://github.com/alonek007/ReallocateFleetVehicle>
+cd </pathdirectory/https://github.com/alonek007/ReallocateFleetVehicle>
+
+**2. Create a requirements.txt file:**
+```bash
+streamlit
+folium
+streamlit-folium
+numpy
+scipy
+scikit-learn
+geopy
+
+**3. Install the dependencies:**
+```bash
+pip install -r requirements.txt
+
+**How to Run**
+Once the setup is complete, launch the Streamlit application from your terminal:
+```bash
+streamlit run visualizer.py
